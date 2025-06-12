@@ -1,0 +1,28 @@
+{
+    "name": "com.ovthemoon.wireless-debug-manager",
+    "version": "1.0.0",
+    "displayName": "Wireless Debug Manager",
+    "description": "Unity Android wireless debugging tool for easy ADB connection management",
+    "unity": "2019.4",
+    "keywords": [
+        "android",
+        "debugging",
+        "adb",
+        "wireless",
+        "editor",
+        "tools"
+    ],
+    "author": {
+        "name": "Seungmoon Choi",
+        "email": "seungmoonchoi71@gmail.com",
+        "url": "https://github.com/ovthemoon"
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ovthemoon/unity-wireless-debug-manager.git"
+    },
+    "bugs": {
+        "url": "https://github.com/ovthemoon/unity-wireless-debug-manager/issues"
+    }
+}

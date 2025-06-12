@@ -179,7 +179,7 @@ nc -zv 192.168.1.100 5555
 
 - **GitHub Issues**: [Bug Reports](https://github.com/ovthemoon/unity-wireless-debug-manager/issues)
 - **Unity Docs**: [Android Build Process](https://docs.unity3d.com/Manual/android-BuildProcess.html)
-- **ADB Guide**: [Official Documentation](https://developer.android.com/studio/command-line/adb)
+- **ADB Guide**: [Official Documentation~](https://developer.android.com/studio/command-line/adb)
 
 ---
 

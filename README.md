@@ -1,6 +1,6 @@
 # Unity Wireless Debug Manager
 
-**🌍 Languages**: [한국어](#korean) | [English](#english) | [Documentation](/Documentation/)
+**🌍 Languages**: [한국어](#korean) | [English](#english) | [Documentation~](/Documentation~/)
 
 ---
 
@@ -117,8 +117,8 @@ Unity 메뉴에서 **Tools → Wireless Debug Manager**가 나타나면 설치 �
 
 ## 📖 상세 가이드
 
-- 🇰🇷 [한국어 상세 설정 가이드](Documentation/setup-guide-ko.md)
-- 📚 [모든 문서 보기](Documentation/)
+- 🇰🇷 [한국어 상세 설정 가이드](Documentation~/setup-guide-ko.md)
+- 📚 [모든 문서 보기](Documentation~/)
 
 ## 🔧 빠른 문제 해결
 
@@ -212,8 +212,8 @@ Installation complete when **Tools → Wireless Debug Manager** appears in Unity
 
 ## 📖 Detailed Guides
 
-- 🇺🇸 [English Detailed Setup Guide](Documentation/setup-guide-en.md)
-- 📚 [View All Documentation](Documentation/)
+- 🇺🇸 [English Detailed Setup Guide](Documentation~/setup-guide-en.md)
+- 📚 [View All Documentation~](Documentation~/)
 
 ## 🔧 Quick Troubleshooting
 

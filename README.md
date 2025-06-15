@@ -56,8 +56,8 @@ cp unity-wireless-debug-manager/Editor/WirelessDebugManager.cs /path/to/Assets/E
 ```
 
 #### 방법 3: 수동 다운로드
-1. [Releases](https://github.com/ovthemoon/unity-wireless-debug-manager/releases)에서 최신 버전 다운로드
-2. `WirelessDebugManager.cs`를 Unity 프로젝트의 `Assets/Editor/` 폴더에 복사
+1. [Releases](https://github.com/ovthemoon/unity-wireless-debug-manager)에서 코드만 다운로드
+2. `WirelessDebugManager.cs`,`WirelessDebugHelpWindow.cs` 를 Unity 프로젝트의 `Assets/Editor/` 폴더에 복사
 
 ### 🎯 사용 흐름
 
@@ -91,17 +91,6 @@ cp unity-wireless-debug-manager/Editor/WirelessDebugManager.cs /path/to/Assets/E
 #### 방법 3: 수동 다운로드
 1. https://github.com/ovthemoon/unity-wireless-debug-manager에서 다운로드
 2. `WirelessDebugManager.cs`,`WirelessDebugHelpWindow.cs` 를 Unity 프로젝트의 `Assets/Editor/` 폴더에 복사
-
-### 🎯 사용 흐름
-
-```
-1. 도구 설치 → 위 방법 중 하나 선택
-2. 상단의 Tools - Wireless Debug Manager 클릭
-3. Android 설정 → 개발자 옵션 + 무선 디버깅 활성화  
-4. 페어링 (1회) → IP, 포트, 6자리 코드 입력
-5. 연결 (매번) → IP:5555로 연결
-6. 무선 디버깅 → Build And Run으로 케이블 없이 배포!
-```
 
 ### ✅ 설치 확인
 Unity 메뉴에서 **Tools → Wireless Debug Manager**가 나타나면 설치 완료!
@@ -185,7 +174,7 @@ cp unity-wireless-debug-manager/Editor/WirelessDebugManager.cs /path/to/Assets/E
 
 #### Method 3: Manual Download
 1. Download latest version from [Releases](https://github.com/ovthemoon/unity-wireless-debug-manager/releases)
-2. Copy `WirelessDebugManager.cs` to `Assets/Editor/` folder in your Unity project
+2. Copy `WirelessDebugManager.cs`, `WirelessDebugHelpWindow.cs` to `Assets/Editor/` folder in your Unity project
 
 ### 🎯 Usage Flow
 
